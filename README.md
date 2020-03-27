@@ -1,10 +1,10 @@
 # flutter_app_api
-## Flutter with Absinthe TDD Part 1
+## Flutter with Absinthe TDD Part 2
 
 Example app in flutter with how to connect to Absinthe API.
 
 ## Reference video
-[https://youtu.be/bPnGvdvPiZs](https://youtu.be/bPnGvdvPiZs)
+[https://youtu.be/-6aIEjD10OE](https://youtu.be/-6aIEjD10OE)
 
 ## Learn more
 
